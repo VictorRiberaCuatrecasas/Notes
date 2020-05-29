@@ -1,7 +1,10 @@
 {
-  "name": "using-pre-built-react-components-completed",
+  "name": "notes_react",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "12.5.0"
+  },
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
